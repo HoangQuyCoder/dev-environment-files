@@ -53,8 +53,8 @@
 
 ### Setup Requires
 
-- True Color Terminal: [iTerm2](https://iterm2.com/) | [Wezterm](https://wezterm.org/) | [Alacritty](https://alacritty.org/)
-- [Neovim](https://neovim.io/) (Version 0.9 or Later)
+- [iTerm2](https://iterm2.com/) | [Wezterm](https://wezterm.org/) | [Alacritty](https://alacritty.org/) - True Color Terminal
+- [Neovim](https://neovim.io/) 
 - [Nerd Font](https://www.nerdfonts.com/) - I use Meslo Nerd Font
 - [Ripgrep](https://github.com/BurntSushi/ripgrep) - For Telescope Fuzzy Finder
 - XCode Command Line Tools
@@ -224,4 +224,3 @@ xcode-select --install
 
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Show modifications on left hand side and interact with git hunks
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - Use lazygit within Neovim
-# dev-environment-files
